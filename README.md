@@ -10,3 +10,6 @@ This repository includes:
 
 We hope this repository serves as a helpful resource for the research community and encourages more open sharing of scientific work.
 
+## Preprints
+
+[1]. myNER: Contextualized Burmese Named Entity Recognition with Bidirectional LSTM and fastText Embeddings via Joint Training with POS Tagging, Kaung Lwin Thant, Kwankamol Nongpong, Ye Kyaw Thu, Thura Aung, Khaing Hsu Wai, Thazin Myint Oo, [https://arxiv.org/abs/2504.04038](https://arxiv.org/abs/2504.04038)
