@@ -1,0 +1,605 @@
+Processing folder: /home/ye/exp/nmt/cv-predict/data/mask/3 with --mask 3
+  Processing language: rm-bg
+    Masking /home/ye/exp/nmt/cv-predict/data/mask/3/rm-bg/train.sy -> /home/ye/exp/nmt/cv-predict/data/mask/3/rm-bg/train.mk
+
+===== Masking Statistics =====
+Total sentences processed: 18104
+Sentences successfully masked: 18104
+Sentences skipped (too short): 0 (0.00%)
+Total syllables masked: 54309
+Average syllables per sentence: 65.23
+    Masking /home/ye/exp/nmt/cv-predict/data/mask/3/rm-bg/dev.sy -> /home/ye/exp/nmt/cv-predict/data/mask/3/rm-bg/dev.mk
+
+===== Masking Statistics =====
+Total sentences processed: 1000
+Sentences successfully masked: 1000
+Sentences skipped (too short): 0 (0.00%)
+Total syllables masked: 3000
+Average syllables per sentence: 61.83
+    Masking /home/ye/exp/nmt/cv-predict/data/mask/3/rm-bg/test.sy -> /home/ye/exp/nmt/cv-predict/data/mask/3/rm-bg/test.mk
+
+===== Masking Statistics =====
+Total sentences processed: 1000
+Sentences successfully masked: 1000
+Sentences skipped (too short): 0 (0.00%)
+Total syllables masked: 3000
+Average syllables per sentence: 62.94
+  Processing language: rm-hi
+    Masking /home/ye/exp/nmt/cv-predict/data/mask/3/rm-hi/train.sy -> /home/ye/exp/nmt/cv-predict/data/mask/3/rm-hi/train.mk
+
+===== Masking Statistics =====
+Total sentences processed: 18104
+Sentences successfully masked: 18104
+Sentences skipped (too short): 0 (0.00%)
+Total syllables masked: 54309
+Average syllables per sentence: 60.02
+    Masking /home/ye/exp/nmt/cv-predict/data/mask/3/rm-hi/dev.sy -> /home/ye/exp/nmt/cv-predict/data/mask/3/rm-hi/dev.mk
+
+===== Masking Statistics =====
+Total sentences processed: 1000
+Sentences successfully masked: 1000
+Sentences skipped (too short): 0 (0.00%)
+Total syllables masked: 3000
+Average syllables per sentence: 58.61
+    Masking /home/ye/exp/nmt/cv-predict/data/mask/3/rm-hi/test.sy -> /home/ye/exp/nmt/cv-predict/data/mask/3/rm-hi/test.mk
+
+===== Masking Statistics =====
+Total sentences processed: 1000
+Sentences successfully masked: 1000
+Sentences skipped (too short): 0 (0.00%)
+Total syllables masked: 3000
+Average syllables per sentence: 59.75
+  Processing language: rm-kh
+    Masking /home/ye/exp/nmt/cv-predict/data/mask/3/rm-kh/train.sy -> /home/ye/exp/nmt/cv-predict/data/mask/3/rm-kh/train.mk
+
+===== Masking Statistics =====
+Total sentences processed: 18104
+Sentences successfully masked: 18104
+Sentences skipped (too short): 0 (0.00%)
+Total syllables masked: 54311
+Average syllables per sentence: 81.06
+    Masking /home/ye/exp/nmt/cv-predict/data/mask/3/rm-kh/dev.sy -> /home/ye/exp/nmt/cv-predict/data/mask/3/rm-kh/dev.mk
+
+===== Masking Statistics =====
+Total sentences processed: 1000
+Sentences successfully masked: 1000
+Sentences skipped (too short): 0 (0.00%)
+Total syllables masked: 3000
+Average syllables per sentence: 76.71
+    Masking /home/ye/exp/nmt/cv-predict/data/mask/3/rm-kh/test.sy -> /home/ye/exp/nmt/cv-predict/data/mask/3/rm-kh/test.mk
+
+===== Masking Statistics =====
+Total sentences processed: 1000
+Sentences successfully masked: 1000
+Sentences skipped (too short): 0 (0.00%)
+Total syllables masked: 3000
+Average syllables per sentence: 78.87
+  Processing language: rm-lo
+    Masking /home/ye/exp/nmt/cv-predict/data/mask/3/rm-lo/train.sy -> /home/ye/exp/nmt/cv-predict/data/mask/3/rm-lo/train.mk
+
+===== Masking Statistics =====
+Total sentences processed: 18104
+Sentences successfully masked: 18104
+Sentences skipped (too short): 0 (0.00%)
+Total syllables masked: 54312
+Average syllables per sentence: 65.41
+    Masking /home/ye/exp/nmt/cv-predict/data/mask/3/rm-lo/dev.sy -> /home/ye/exp/nmt/cv-predict/data/mask/3/rm-lo/dev.mk
+
+===== Masking Statistics =====
+Total sentences processed: 1000
+Sentences successfully masked: 1000
+Sentences skipped (too short): 0 (0.00%)
+Total syllables masked: 3000
+Average syllables per sentence: 60.77
+    Masking /home/ye/exp/nmt/cv-predict/data/mask/3/rm-lo/test.sy -> /home/ye/exp/nmt/cv-predict/data/mask/3/rm-lo/test.mk
+
+===== Masking Statistics =====
+Total sentences processed: 1000
+Sentences successfully masked: 1000
+Sentences skipped (too short): 0 (0.00%)
+Total syllables masked: 3000
+Average syllables per sentence: 60.21
+  Processing language: rm-my
+    Masking /home/ye/exp/nmt/cv-predict/data/mask/3/rm-my/train.sy -> /home/ye/exp/nmt/cv-predict/data/mask/3/rm-my/train.mk
+
+===== Masking Statistics =====
+Total sentences processed: 18104
+Sentences successfully masked: 18096
+Sentences skipped (too short): 8 (0.04%)
+Total syllables masked: 54288
+Average syllables per sentence: 53.03
+    Masking /home/ye/exp/nmt/cv-predict/data/mask/3/rm-my/dev.sy -> /home/ye/exp/nmt/cv-predict/data/mask/3/rm-my/dev.mk
+
+===== Masking Statistics =====
+Total sentences processed: 1000
+Sentences successfully masked: 1000
+Sentences skipped (too short): 0 (0.00%)
+Total syllables masked: 3000
+Average syllables per sentence: 50.68
+    Masking /home/ye/exp/nmt/cv-predict/data/mask/3/rm-my/test.sy -> /home/ye/exp/nmt/cv-predict/data/mask/3/rm-my/test.mk
+
+===== Masking Statistics =====
+Total sentences processed: 1000
+Sentences successfully masked: 1000
+Sentences skipped (too short): 0 (0.00%)
+Total syllables masked: 3000
+Average syllables per sentence: 51.30
+  Processing language: rm-th
+    Masking /home/ye/exp/nmt/cv-predict/data/mask/3/rm-th/train.sy -> /home/ye/exp/nmt/cv-predict/data/mask/3/rm-th/train.mk
+
+===== Masking Statistics =====
+Total sentences processed: 18104
+Sentences successfully masked: 18104
+Sentences skipped (too short): 0 (0.00%)
+Total syllables masked: 54309
+Average syllables per sentence: 68.53
+    Masking /home/ye/exp/nmt/cv-predict/data/mask/3/rm-th/dev.sy -> /home/ye/exp/nmt/cv-predict/data/mask/3/rm-th/dev.mk
+
+===== Masking Statistics =====
+Total sentences processed: 1000
+Sentences successfully masked: 1000
+Sentences skipped (too short): 0 (0.00%)
+Total syllables masked: 3000
+Average syllables per sentence: 62.35
+    Masking /home/ye/exp/nmt/cv-predict/data/mask/3/rm-th/test.sy -> /home/ye/exp/nmt/cv-predict/data/mask/3/rm-th/test.mk
+
+===== Masking Statistics =====
+Total sentences processed: 1000
+Sentences successfully masked: 1000
+Sentences skipped (too short): 0 (0.00%)
+Total syllables masked: 3000
+Average syllables per sentence: 61.71
+Processing folder: /home/ye/exp/nmt/cv-predict/data/mask/5 with --mask 5
+  Processing language: rm-bg
+    Masking /home/ye/exp/nmt/cv-predict/data/mask/5/rm-bg/train.sy -> /home/ye/exp/nmt/cv-predict/data/mask/5/rm-bg/train.mk
+
+===== Masking Statistics =====
+Total sentences processed: 18104
+Sentences successfully masked: 18102
+Sentences skipped (too short): 2 (0.01%)
+Total syllables masked: 90505
+Average syllables per sentence: 65.23
+    Masking /home/ye/exp/nmt/cv-predict/data/mask/5/rm-bg/dev.sy -> /home/ye/exp/nmt/cv-predict/data/mask/5/rm-bg/dev.mk
+
+===== Masking Statistics =====
+Total sentences processed: 1000
+Sentences successfully masked: 1000
+Sentences skipped (too short): 0 (0.00%)
+Total syllables masked: 5000
+Average syllables per sentence: 61.83
+    Masking /home/ye/exp/nmt/cv-predict/data/mask/5/rm-bg/test.sy -> /home/ye/exp/nmt/cv-predict/data/mask/5/rm-bg/test.mk
+
+===== Masking Statistics =====
+Total sentences processed: 1000
+Sentences successfully masked: 1000
+Sentences skipped (too short): 0 (0.00%)
+Total syllables masked: 4996
+Average syllables per sentence: 62.94
+  Processing language: rm-hi
+    Masking /home/ye/exp/nmt/cv-predict/data/mask/5/rm-hi/train.sy -> /home/ye/exp/nmt/cv-predict/data/mask/5/rm-hi/train.mk
+
+===== Masking Statistics =====
+Total sentences processed: 18104
+Sentences successfully masked: 18103
+Sentences skipped (too short): 1 (0.01%)
+Total syllables masked: 90504
+Average syllables per sentence: 60.02
+    Masking /home/ye/exp/nmt/cv-predict/data/mask/5/rm-hi/dev.sy -> /home/ye/exp/nmt/cv-predict/data/mask/5/rm-hi/dev.mk
+
+===== Masking Statistics =====
+Total sentences processed: 1000
+Sentences successfully masked: 1000
+Sentences skipped (too short): 0 (0.00%)
+Total syllables masked: 5000
+Average syllables per sentence: 58.61
+    Masking /home/ye/exp/nmt/cv-predict/data/mask/5/rm-hi/test.sy -> /home/ye/exp/nmt/cv-predict/data/mask/5/rm-hi/test.mk
+
+===== Masking Statistics =====
+Total sentences processed: 1000
+Sentences successfully masked: 1000
+Sentences skipped (too short): 0 (0.00%)
+Total syllables masked: 4998
+Average syllables per sentence: 59.75
+  Processing language: rm-kh
+    Masking /home/ye/exp/nmt/cv-predict/data/mask/5/rm-kh/train.sy -> /home/ye/exp/nmt/cv-predict/data/mask/5/rm-kh/train.mk
+
+===== Masking Statistics =====
+Total sentences processed: 18104
+Sentences successfully masked: 18103
+Sentences skipped (too short): 1 (0.01%)
+Total syllables masked: 90510
+Average syllables per sentence: 81.06
+    Masking /home/ye/exp/nmt/cv-predict/data/mask/5/rm-kh/dev.sy -> /home/ye/exp/nmt/cv-predict/data/mask/5/rm-kh/dev.mk
+
+===== Masking Statistics =====
+Total sentences processed: 1000
+Sentences successfully masked: 1000
+Sentences skipped (too short): 0 (0.00%)
+Total syllables masked: 5000
+Average syllables per sentence: 76.71
+    Masking /home/ye/exp/nmt/cv-predict/data/mask/5/rm-kh/test.sy -> /home/ye/exp/nmt/cv-predict/data/mask/5/rm-kh/test.mk
+
+===== Masking Statistics =====
+Total sentences processed: 1000
+Sentences successfully masked: 1000
+Sentences skipped (too short): 0 (0.00%)
+Total syllables masked: 4999
+Average syllables per sentence: 78.87
+  Processing language: rm-lo
+    Masking /home/ye/exp/nmt/cv-predict/data/mask/5/rm-lo/train.sy -> /home/ye/exp/nmt/cv-predict/data/mask/5/rm-lo/train.mk
+
+===== Masking Statistics =====
+Total sentences processed: 18104
+Sentences successfully masked: 18104
+Sentences skipped (too short): 0 (0.00%)
+Total syllables masked: 90504
+Average syllables per sentence: 65.41
+    Masking /home/ye/exp/nmt/cv-predict/data/mask/5/rm-lo/dev.sy -> /home/ye/exp/nmt/cv-predict/data/mask/5/rm-lo/dev.mk
+
+===== Masking Statistics =====
+Total sentences processed: 1000
+Sentences successfully masked: 1000
+Sentences skipped (too short): 0 (0.00%)
+Total syllables masked: 5000
+Average syllables per sentence: 60.77
+    Masking /home/ye/exp/nmt/cv-predict/data/mask/5/rm-lo/test.sy -> /home/ye/exp/nmt/cv-predict/data/mask/5/rm-lo/test.mk
+
+===== Masking Statistics =====
+Total sentences processed: 1000
+Sentences successfully masked: 1000
+Sentences skipped (too short): 0 (0.00%)
+Total syllables masked: 5000
+Average syllables per sentence: 60.21
+  Processing language: rm-my
+    Masking /home/ye/exp/nmt/cv-predict/data/mask/5/rm-my/train.sy -> /home/ye/exp/nmt/cv-predict/data/mask/5/rm-my/train.mk
+
+===== Masking Statistics =====
+Total sentences processed: 18104
+Sentences successfully masked: 18096
+Sentences skipped (too short): 8 (0.04%)
+Total syllables masked: 90461
+Average syllables per sentence: 53.03
+    Masking /home/ye/exp/nmt/cv-predict/data/mask/5/rm-my/dev.sy -> /home/ye/exp/nmt/cv-predict/data/mask/5/rm-my/dev.mk
+
+===== Masking Statistics =====
+Total sentences processed: 1000
+Sentences successfully masked: 1000
+Sentences skipped (too short): 0 (0.00%)
+Total syllables masked: 5000
+Average syllables per sentence: 50.68
+    Masking /home/ye/exp/nmt/cv-predict/data/mask/5/rm-my/test.sy -> /home/ye/exp/nmt/cv-predict/data/mask/5/rm-my/test.mk
+
+===== Masking Statistics =====
+Total sentences processed: 1000
+Sentences successfully masked: 1000
+Sentences skipped (too short): 0 (0.00%)
+Total syllables masked: 4998
+Average syllables per sentence: 51.30
+  Processing language: rm-th
+    Masking /home/ye/exp/nmt/cv-predict/data/mask/5/rm-th/train.sy -> /home/ye/exp/nmt/cv-predict/data/mask/5/rm-th/train.mk
+
+===== Masking Statistics =====
+Total sentences processed: 18104
+Sentences successfully masked: 18102
+Sentences skipped (too short): 2 (0.01%)
+Total syllables masked: 90497
+Average syllables per sentence: 68.53
+    Masking /home/ye/exp/nmt/cv-predict/data/mask/5/rm-th/dev.sy -> /home/ye/exp/nmt/cv-predict/data/mask/5/rm-th/dev.mk
+
+===== Masking Statistics =====
+Total sentences processed: 1000
+Sentences successfully masked: 1000
+Sentences skipped (too short): 0 (0.00%)
+Total syllables masked: 5000
+Average syllables per sentence: 62.35
+    Masking /home/ye/exp/nmt/cv-predict/data/mask/5/rm-th/test.sy -> /home/ye/exp/nmt/cv-predict/data/mask/5/rm-th/test.mk
+
+===== Masking Statistics =====
+Total sentences processed: 1000
+Sentences successfully masked: 1000
+Sentences skipped (too short): 0 (0.00%)
+Total syllables masked: 4996
+Average syllables per sentence: 61.71
+Processing folder: /home/ye/exp/nmt/cv-predict/data/mask/8 with --mask 8
+  Processing language: rm-bg
+    Masking /home/ye/exp/nmt/cv-predict/data/mask/8/rm-bg/train.sy -> /home/ye/exp/nmt/cv-predict/data/mask/8/rm-bg/train.mk
+
+===== Masking Statistics =====
+Total sentences processed: 18104
+Sentences successfully masked: 18101
+Sentences skipped (too short): 3 (0.02%)
+Total syllables masked: 144730
+Average syllables per sentence: 65.23
+    Masking /home/ye/exp/nmt/cv-predict/data/mask/8/rm-bg/dev.sy -> /home/ye/exp/nmt/cv-predict/data/mask/8/rm-bg/dev.mk
+
+===== Masking Statistics =====
+Total sentences processed: 1000
+Sentences successfully masked: 1000
+Sentences skipped (too short): 0 (0.00%)
+Total syllables masked: 7998
+Average syllables per sentence: 61.83
+    Masking /home/ye/exp/nmt/cv-predict/data/mask/8/rm-bg/test.sy -> /home/ye/exp/nmt/cv-predict/data/mask/8/rm-bg/test.mk
+
+===== Masking Statistics =====
+Total sentences processed: 1000
+Sentences successfully masked: 998
+Sentences skipped (too short): 2 (0.20%)
+Total syllables masked: 7976
+Average syllables per sentence: 62.94
+  Processing language: rm-hi
+    Masking /home/ye/exp/nmt/cv-predict/data/mask/8/rm-hi/train.sy -> /home/ye/exp/nmt/cv-predict/data/mask/8/rm-hi/train.mk
+
+===== Masking Statistics =====
+Total sentences processed: 18104
+Sentences successfully masked: 18100
+Sentences skipped (too short): 4 (0.02%)
+Total syllables masked: 144681
+Average syllables per sentence: 60.02
+    Masking /home/ye/exp/nmt/cv-predict/data/mask/8/rm-hi/dev.sy -> /home/ye/exp/nmt/cv-predict/data/mask/8/rm-hi/dev.mk
+
+===== Masking Statistics =====
+Total sentences processed: 1000
+Sentences successfully masked: 1000
+Sentences skipped (too short): 0 (0.00%)
+Total syllables masked: 7994
+Average syllables per sentence: 58.61
+    Masking /home/ye/exp/nmt/cv-predict/data/mask/8/rm-hi/test.sy -> /home/ye/exp/nmt/cv-predict/data/mask/8/rm-hi/test.mk
+
+===== Masking Statistics =====
+Total sentences processed: 1000
+Sentences successfully masked: 1000
+Sentences skipped (too short): 0 (0.00%)
+Total syllables masked: 7990
+Average syllables per sentence: 59.75
+  Processing language: rm-kh
+    Masking /home/ye/exp/nmt/cv-predict/data/mask/8/rm-kh/train.sy -> /home/ye/exp/nmt/cv-predict/data/mask/8/rm-kh/train.mk
+
+===== Masking Statistics =====
+Total sentences processed: 18104
+Sentences successfully masked: 18101
+Sentences skipped (too short): 3 (0.02%)
+Total syllables masked: 144772
+Average syllables per sentence: 81.06
+    Masking /home/ye/exp/nmt/cv-predict/data/mask/8/rm-kh/dev.sy -> /home/ye/exp/nmt/cv-predict/data/mask/8/rm-kh/dev.mk
+
+===== Masking Statistics =====
+Total sentences processed: 1000
+Sentences successfully masked: 1000
+Sentences skipped (too short): 0 (0.00%)
+Total syllables masked: 8000
+Average syllables per sentence: 76.71
+    Masking /home/ye/exp/nmt/cv-predict/data/mask/8/rm-kh/test.sy -> /home/ye/exp/nmt/cv-predict/data/mask/8/rm-kh/test.mk
+
+===== Masking Statistics =====
+Total sentences processed: 1000
+Sentences successfully masked: 1000
+Sentences skipped (too short): 0 (0.00%)
+Total syllables masked: 7992
+Average syllables per sentence: 78.87
+  Processing language: rm-lo
+    Masking /home/ye/exp/nmt/cv-predict/data/mask/8/rm-lo/train.sy -> /home/ye/exp/nmt/cv-predict/data/mask/8/rm-lo/train.mk
+
+===== Masking Statistics =====
+Total sentences processed: 18104
+Sentences successfully masked: 18100
+Sentences skipped (too short): 4 (0.02%)
+Total syllables masked: 144689
+Average syllables per sentence: 65.41
+    Masking /home/ye/exp/nmt/cv-predict/data/mask/8/rm-lo/dev.sy -> /home/ye/exp/nmt/cv-predict/data/mask/8/rm-lo/dev.mk
+
+===== Masking Statistics =====
+Total sentences processed: 1000
+Sentences successfully masked: 1000
+Sentences skipped (too short): 0 (0.00%)
+Total syllables masked: 7994
+Average syllables per sentence: 60.77
+    Masking /home/ye/exp/nmt/cv-predict/data/mask/8/rm-lo/test.sy -> /home/ye/exp/nmt/cv-predict/data/mask/8/rm-lo/test.mk
+
+===== Masking Statistics =====
+Total sentences processed: 1000
+Sentences successfully masked: 1000
+Sentences skipped (too short): 0 (0.00%)
+Total syllables masked: 7985
+Average syllables per sentence: 60.21
+  Processing language: rm-my
+    Masking /home/ye/exp/nmt/cv-predict/data/mask/8/rm-my/train.sy -> /home/ye/exp/nmt/cv-predict/data/mask/8/rm-my/train.mk
+
+===== Masking Statistics =====
+Total sentences processed: 18104
+Sentences successfully masked: 18091
+Sentences skipped (too short): 13 (0.07%)
+Total syllables masked: 144590
+Average syllables per sentence: 53.03
+    Masking /home/ye/exp/nmt/cv-predict/data/mask/8/rm-my/dev.sy -> /home/ye/exp/nmt/cv-predict/data/mask/8/rm-my/dev.mk
+
+===== Masking Statistics =====
+Total sentences processed: 1000
+Sentences successfully masked: 1000
+Sentences skipped (too short): 0 (0.00%)
+Total syllables masked: 7996
+Average syllables per sentence: 50.68
+    Masking /home/ye/exp/nmt/cv-predict/data/mask/8/rm-my/test.sy -> /home/ye/exp/nmt/cv-predict/data/mask/8/rm-my/test.mk
+
+===== Masking Statistics =====
+Total sentences processed: 1000
+Sentences successfully masked: 1000
+Sentences skipped (too short): 0 (0.00%)
+Total syllables masked: 7976
+Average syllables per sentence: 51.30
+  Processing language: rm-th
+    Masking /home/ye/exp/nmt/cv-predict/data/mask/8/rm-th/train.sy -> /home/ye/exp/nmt/cv-predict/data/mask/8/rm-th/train.mk
+
+===== Masking Statistics =====
+Total sentences processed: 18104
+Sentences successfully masked: 18100
+Sentences skipped (too short): 4 (0.02%)
+Total syllables masked: 144653
+Average syllables per sentence: 68.53
+    Masking /home/ye/exp/nmt/cv-predict/data/mask/8/rm-th/dev.sy -> /home/ye/exp/nmt/cv-predict/data/mask/8/rm-th/dev.mk
+
+===== Masking Statistics =====
+Total sentences processed: 1000
+Sentences successfully masked: 1000
+Sentences skipped (too short): 0 (0.00%)
+Total syllables masked: 7997
+Average syllables per sentence: 62.35
+    Masking /home/ye/exp/nmt/cv-predict/data/mask/8/rm-th/test.sy -> /home/ye/exp/nmt/cv-predict/data/mask/8/rm-th/test.mk
+
+===== Masking Statistics =====
+Total sentences processed: 1000
+Sentences successfully masked: 999
+Sentences skipped (too short): 1 (0.10%)
+Total syllables masked: 7981
+Average syllables per sentence: 61.71
+Processing folder: /home/ye/exp/nmt/cv-predict/data/mask/10 with --mask 10
+  Processing language: rm-bg
+    Masking /home/ye/exp/nmt/cv-predict/data/mask/10/rm-bg/train.sy -> /home/ye/exp/nmt/cv-predict/data/mask/10/rm-bg/train.mk
+
+===== Masking Statistics =====
+Total sentences processed: 18104
+Sentences successfully masked: 18100
+Sentences skipped (too short): 4 (0.02%)
+Total syllables masked: 180641
+Average syllables per sentence: 65.23
+    Masking /home/ye/exp/nmt/cv-predict/data/mask/10/rm-bg/dev.sy -> /home/ye/exp/nmt/cv-predict/data/mask/10/rm-bg/dev.mk
+
+===== Masking Statistics =====
+Total sentences processed: 1000
+Sentences successfully masked: 1000
+Sentences skipped (too short): 0 (0.00%)
+Total syllables masked: 9984
+Average syllables per sentence: 61.83
+    Masking /home/ye/exp/nmt/cv-predict/data/mask/10/rm-bg/test.sy -> /home/ye/exp/nmt/cv-predict/data/mask/10/rm-bg/test.mk
+
+===== Masking Statistics =====
+Total sentences processed: 1000
+Sentences successfully masked: 997
+Sentences skipped (too short): 3 (0.30%)
+Total syllables masked: 9943
+Average syllables per sentence: 62.94
+  Processing language: rm-hi
+    Masking /home/ye/exp/nmt/cv-predict/data/mask/10/rm-hi/train.sy -> /home/ye/exp/nmt/cv-predict/data/mask/10/rm-hi/train.mk
+
+===== Masking Statistics =====
+Total sentences processed: 18104
+Sentences successfully masked: 18097
+Sentences skipped (too short): 7 (0.04%)
+Total syllables masked: 180443
+Average syllables per sentence: 60.02
+    Masking /home/ye/exp/nmt/cv-predict/data/mask/10/rm-hi/dev.sy -> /home/ye/exp/nmt/cv-predict/data/mask/10/rm-hi/dev.mk
+
+===== Masking Statistics =====
+Total sentences processed: 1000
+Sentences successfully masked: 1000
+Sentences skipped (too short): 0 (0.00%)
+Total syllables masked: 9977
+Average syllables per sentence: 58.61
+    Masking /home/ye/exp/nmt/cv-predict/data/mask/10/rm-hi/test.sy -> /home/ye/exp/nmt/cv-predict/data/mask/10/rm-hi/test.mk
+
+===== Masking Statistics =====
+Total sentences processed: 1000
+Sentences successfully masked: 1000
+Sentences skipped (too short): 0 (0.00%)
+Total syllables masked: 9968
+Average syllables per sentence: 59.75
+  Processing language: rm-kh
+    Masking /home/ye/exp/nmt/cv-predict/data/mask/10/rm-kh/train.sy -> /home/ye/exp/nmt/cv-predict/data/mask/10/rm-kh/train.mk
+
+===== Masking Statistics =====
+Total sentences processed: 18104
+Sentences successfully masked: 18099
+Sentences skipped (too short): 5 (0.03%)
+Total syllables masked: 180862
+Average syllables per sentence: 81.06
+    Masking /home/ye/exp/nmt/cv-predict/data/mask/10/rm-kh/dev.sy -> /home/ye/exp/nmt/cv-predict/data/mask/10/rm-kh/dev.mk
+
+===== Masking Statistics =====
+Total sentences processed: 1000
+Sentences successfully masked: 1000
+Sentences skipped (too short): 0 (0.00%)
+Total syllables masked: 9996
+Average syllables per sentence: 76.71
+    Masking /home/ye/exp/nmt/cv-predict/data/mask/10/rm-kh/test.sy -> /home/ye/exp/nmt/cv-predict/data/mask/10/rm-kh/test.mk
+
+===== Masking Statistics =====
+Total sentences processed: 1000
+Sentences successfully masked: 999
+Sentences skipped (too short): 1 (0.10%)
+Total syllables masked: 9976
+Average syllables per sentence: 78.87
+  Processing language: rm-lo
+    Masking /home/ye/exp/nmt/cv-predict/data/mask/10/rm-lo/train.sy -> /home/ye/exp/nmt/cv-predict/data/mask/10/rm-lo/train.mk
+
+===== Masking Statistics =====
+Total sentences processed: 18104
+Sentences successfully masked: 18097
+Sentences skipped (too short): 7 (0.04%)
+Total syllables masked: 180522
+Average syllables per sentence: 65.41
+    Masking /home/ye/exp/nmt/cv-predict/data/mask/10/rm-lo/dev.sy -> /home/ye/exp/nmt/cv-predict/data/mask/10/rm-lo/dev.mk
+
+===== Masking Statistics =====
+Total sentences processed: 1000
+Sentences successfully masked: 1000
+Sentences skipped (too short): 0 (0.00%)
+Total syllables masked: 9979
+Average syllables per sentence: 60.77
+    Masking /home/ye/exp/nmt/cv-predict/data/mask/10/rm-lo/test.sy -> /home/ye/exp/nmt/cv-predict/data/mask/10/rm-lo/test.mk
+
+===== Masking Statistics =====
+Total sentences processed: 1000
+Sentences successfully masked: 1000
+Sentences skipped (too short): 0 (0.00%)
+Total syllables masked: 9940
+Average syllables per sentence: 60.21
+  Processing language: rm-my
+    Masking /home/ye/exp/nmt/cv-predict/data/mask/10/rm-my/train.sy -> /home/ye/exp/nmt/cv-predict/data/mask/10/rm-my/train.mk
+
+===== Masking Statistics =====
+Total sentences processed: 18104
+Sentences successfully masked: 18086
+Sentences skipped (too short): 18 (0.10%)
+Total syllables masked: 180115
+Average syllables per sentence: 53.03
+    Masking /home/ye/exp/nmt/cv-predict/data/mask/10/rm-my/dev.sy -> /home/ye/exp/nmt/cv-predict/data/mask/10/rm-my/dev.mk
+
+===== Masking Statistics =====
+Total sentences processed: 1000
+Sentences successfully masked: 1000
+Sentences skipped (too short): 0 (0.00%)
+Total syllables masked: 9967
+Average syllables per sentence: 50.68
+    Masking /home/ye/exp/nmt/cv-predict/data/mask/10/rm-my/test.sy -> /home/ye/exp/nmt/cv-predict/data/mask/10/rm-my/test.mk
+
+===== Masking Statistics =====
+Total sentences processed: 1000
+Sentences successfully masked: 998
+Sentences skipped (too short): 2 (0.20%)
+Total syllables masked: 9917
+Average syllables per sentence: 51.30
+  Processing language: rm-th
+    Masking /home/ye/exp/nmt/cv-predict/data/mask/10/rm-th/train.sy -> /home/ye/exp/nmt/cv-predict/data/mask/10/rm-th/train.mk
+
+===== Masking Statistics =====
+Total sentences processed: 18104
+Sentences successfully masked: 18095
+Sentences skipped (too short): 9 (0.05%)
+Total syllables masked: 180470
+Average syllables per sentence: 68.53
+    Masking /home/ye/exp/nmt/cv-predict/data/mask/10/rm-th/dev.sy -> /home/ye/exp/nmt/cv-predict/data/mask/10/rm-th/dev.mk
+
+===== Masking Statistics =====
+Total sentences processed: 1000
+Sentences successfully masked: 1000
+Sentences skipped (too short): 0 (0.00%)
+Total syllables masked: 9975
+Average syllables per sentence: 62.35
+    Masking /home/ye/exp/nmt/cv-predict/data/mask/10/rm-th/test.sy -> /home/ye/exp/nmt/cv-predict/data/mask/10/rm-th/test.mk
+
+===== Masking Statistics =====
+Total sentences processed: 1000
+Sentences successfully masked: 998
+Sentences skipped (too short): 2 (0.20%)
+Total syllables masked: 9937
+Average syllables per sentence: 61.71
+Masking process completed!
