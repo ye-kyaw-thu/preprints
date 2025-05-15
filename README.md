@@ -18,8 +18,7 @@ We hope this repository serves as a helpful resource for the research community 
 
    **Published Version:**  
    Kaung Lwin Thant, Kwankamol Nongpong, Ye Kyaw Thu, Thura Aung, Khaing Hsu Wai, Thazin Myint Oo,  
-   *"myNER: Contextualized Burmese Named Entity Recognition with Bidirectional LSTM and fastText Embeddings via Joint Training with POS Tagging,"*  
-   *International Conference on Cybernetics and Innovations (ICCI 2025)*, April 2–4, Pattaya, Chonburi, Thailand, pp. xx–xx.
+   *"myNER: Contextualized Burmese Named Entity Recognition with Bidirectional LSTM and fastText Embeddings via Joint Training with POS Tagging," International Conference on Cybernetics and Innovations (ICCI 2025)*, April 2–4, Pattaya, Chonburi, Thailand, pp. xx–xx.
 
 
 
