@@ -1,6 +1,3 @@
-# preprints
-Preprints and related materials from LU Lab.
-
 # LU Lab Preprints
 
 Publishing research papers at international conferences is often a challenge for researchers in Myanmar, including those of us at the Language Understanding (LU) Lab. To share our work more openly and make our research accessible, we have decided to publish some of our R&D outputs as preprints, with the help of platforms such as [arXiv.org](https://arxiv.org).
